@@ -13,4 +13,4 @@ const elementoMemorValor = document.getElementById('menor-valor')
 elementoMemorValor.innerHTML = menorValor
 
 const elementoMaiorValor = document.getElementById('maior-valor')
-elementoMaiorValor.innerHTML = maiorValor
+elementoMaiorValor.innerHTML = maiorValor 
